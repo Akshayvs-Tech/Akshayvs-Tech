@@ -4,10 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogkichu&label=Profile%20views&color=0e75b6&style=flat" alt="rogkichu" /> </p>
 
 
-- 🔭 I’m currently learning DJano
-
-
-
 - 💬 Ask me about *full stack development*
 
 - 📫 How to reach me *kichi4295@gmail.com*
